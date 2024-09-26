@@ -172,7 +172,7 @@ body {
 /* Individual project tiles */
 .project-tile {
 
-    width: 49vw;
+    width: 47%;
     height: 500px;
     overflow: hidden;
     border-radius: 10px;
@@ -408,6 +408,7 @@ footer .Contact-info {
         width: 90vw;
         height: 40vh;
         overflow: hidden;
+
     }
 
     .body-content .body-title {
