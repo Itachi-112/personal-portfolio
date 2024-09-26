@@ -603,7 +603,7 @@ footer .Contact-info {
      text-transform: uppercase;
      font-size: var(--text-size-xl);
      font-weight: 500;
-     margin-top: 50px;
+     margin-top: 20px;
      color: var(--primary-text);
 
  }
@@ -612,20 +612,20 @@ footer .Contact-info {
      text-transform: capitalize;
      font-size: var(--text-size-large);
      font-weight: 600;
-     margin-top: 20px;
+     margin-top: 10px;
      color: var(--secondary-text);
  }
 
  .body-content .body-info {
      font-size: var(--text-size-regular);
-     margin-top: 40px;
+     margin-top: 20px;
      color: var(--secondary-text);
  }
 
  .body-content a {
      text-transform: capitalize;
      position: absolute;
-     bottom: 2px;
+     bottom: 10px;
      width: 30%;
      background: linear-gradient(135deg, #1b2631ee, #34495eea);
      padding: 10px;
@@ -740,3 +740,4 @@ footer .Contact-info {
 
 
 }
+
