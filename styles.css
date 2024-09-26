@@ -450,5 +450,7 @@ footer .Contact-info {
         gap: 10px;
         font-size: var(--text-size-xl);
     }
-
+.autoShow {
+    animation: none;
+}
 }
