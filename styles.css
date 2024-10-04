@@ -405,8 +405,8 @@ footer .Contact-info {
 
     /* Individual project tiles */
     .project-tile {
-        width: 40vw;
-        height: auto;
+        width: 90vw;
+        height: 40vh;
         overflow: hidden;
 
     }
